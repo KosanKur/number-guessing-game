@@ -13,7 +13,10 @@
 
 ## Installation
 1. Repository klonen:
-   git clone https://github.com/deinname/number-guessing-game
+   git clone
 2. index.html im Browser öffnen – fertig!
+
+3. ## Lizenz
+MIT License – frei verwendbar
 
 - 
