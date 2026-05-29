@@ -19,4 +19,4 @@
 3. ## Lizenz
 MIT License – frei verwendbar
 
-- 
+- Frei runter laden
