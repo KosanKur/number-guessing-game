@@ -17,6 +17,6 @@
 2. index.html im Browser öffnen – fertig!
 
 3. ## Lizenz
-MIT License – frei verwendbar
+License – frei verwendbar
 
 - Frei runter laden
