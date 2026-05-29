@@ -7,8 +7,8 @@
 
 
 ## Technologien
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Vanilla JavaScript (kein Framework)
 
 ## Installation
