@@ -1,5 +1,5 @@
 # number-guessing-game
-🎮 Zahlen-Ratespiel im Browser – gebaut mit HTML, CSS &amp; JavaScript
+Zahlen-Ratespiel im Browser – gebaut mit HTML, CSS &amp; JavaScript
 ## Spielprinzip
 - Das Spiel wählt eine zufällige Zahl zwischen 1 und 100
 - Du hast X Versuche, die Zahl zu erraten
